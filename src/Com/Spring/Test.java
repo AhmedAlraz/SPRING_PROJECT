@@ -19,7 +19,7 @@ public class Test {
 		Student st=(Student) fact.getBean("studentbean");
 		System.out.println("Student Object Created");
 	st.display();
-	System.out.println("hiiiiiiii");
+	System.out.println("hiiiiiiiihelllo");
 	System.out.println("Display successfully run ");
 	}
 
